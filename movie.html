@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <title>帧动画</title>
+  <link href="css/left.css" rel="stylesheet" />
+  <link href="css/index.css" rel="stylesheet" />
+</head>
+
+<body>
+<div class="page p0">
+  <!-- 合成的位图较大，切换需要时间较长，需要放在可见页面上提前播放一遍 -->
+  <div class="left"></div>
+</div>  
+  <div class="page p1">
+    <!-- 播放一遍之后插入到这个地方-->
+    <div class="left-box">
+      
+    </div>
+    <button class="stop">stop</button>
+    <button class="revert">revert</button>
+    <button class="play">wait</button>
+  </div>
+  <script src="http://cdn.bootcss.com/jquery/2.1.4/jquery.min.js"></script>
+  <script src="js/MovieSprites.js"></script>
+  <script src="js/index.js"></script>
+</body>
+
+</html>

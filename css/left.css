@@ -1,0 +1,563 @@
+/* glue: 0.11.1 hash: 1ebbfa72d4 */
+        .sprite-move-left009,
+.sprite-move-left008,
+.sprite-move-left007,
+.sprite-move-left006,
+.sprite-move-left005,
+.sprite-move-left004,
+.sprite-move-left003,
+.sprite-move-left0024,
+.sprite-move-left0023,
+.sprite-move-left0022,
+.sprite-move-left0021,
+.sprite-move-left0020,
+.sprite-move-left002,
+.sprite-move-left0019,
+.sprite-move-left0018,
+.sprite-move-left0017,
+.sprite-move-left0016,
+.sprite-move-left0015,
+.sprite-move-left0014,
+.sprite-move-left0013,
+.sprite-move-left0012,
+.sprite-move-left0011,
+.sprite-move-left0010,
+.sprite-move-left001 {
+            background-image: url('../img/left1.png');
+            background-repeat: no-repeat;
+        }
+        
+        .sprite-move-left009 {
+            background-position: 0 0;
+            width: 375px;
+            height: 425px;
+        }
+        
+        .sprite-move-left008 {
+            background-position: -375px 0;
+            width: 375px;
+            height: 425px;
+        }
+        
+        .sprite-move-left007 {
+            background-position: -750px 0;
+            width: 375px;
+            height: 425px;
+        }
+        
+        .sprite-move-left006 {
+            background-position: 0 -425px;
+            width: 375px;
+            height: 425px;
+        }
+        
+        .sprite-move-left005 {
+            background-position: -375px -425px;
+            width: 375px;
+            height: 425px;
+        }
+        
+        .sprite-move-left004 {
+            background-position: -750px -425px;
+            width: 375px;
+            height: 425px;
+        }
+        
+        .sprite-move-left003 {
+            background-position: -1125px 0;
+            width: 375px;
+            height: 425px;
+        }
+        
+        .sprite-move-left0024 {
+            background-position: -1125px -425px;
+            width: 375px;
+            height: 425px;
+        }
+        
+        .sprite-move-left0023 {
+            background-position: 0 -850px;
+            width: 375px;
+            height: 425px;
+        }
+        
+        .sprite-move-left0022 {
+            background-position: -375px -850px;
+            width: 375px;
+            height: 425px;
+        }
+        
+        .sprite-move-left0021 {
+            background-position: -750px -850px;
+            width: 375px;
+            height: 425px;
+        }
+        
+        .sprite-move-left0020 {
+            background-position: -1125px -850px;
+            width: 375px;
+            height: 425px;
+        }
+        
+        .sprite-move-left002 {
+            background-position: -1500px 0;
+            width: 375px;
+            height: 425px;
+        }
+        
+        .sprite-move-left0019 {
+            background-position: -1500px -425px;
+            width: 375px;
+            height: 425px;
+        }
+        
+        .sprite-move-left0018 {
+            background-position: -1500px -850px;
+            width: 375px;
+            height: 425px;
+        }
+        
+        .sprite-move-left0017 {
+            background-position: 0 -1275px;
+            width: 375px;
+            height: 425px;
+        }
+        
+        .sprite-move-left0016 {
+            background-position: -375px -1275px;
+            width: 375px;
+            height: 425px;
+        }
+        
+        .sprite-move-left0015 {
+            background-position: -750px -1275px;
+            width: 375px;
+            height: 425px;
+        }
+        
+        .sprite-move-left0014 {
+            background-position: -1125px -1275px;
+            width: 375px;
+            height: 425px;
+        }
+        
+        .sprite-move-left0013 {
+            background-position: -1500px -1275px;
+            width: 375px;
+            height: 425px;
+        }
+        
+        .sprite-move-left0012 {
+            background-position: -1875px 0;
+            width: 375px;
+            height: 425px;
+        }
+        
+        .sprite-move-left0011 {
+            background-position: -1875px -425px;
+            width: 375px;
+            height: 425px;
+        }
+        
+        .sprite-move-left0010 {
+            background-position: -1875px -850px;
+            width: 375px;
+            height: 425px;
+        }
+        
+        .sprite-move-left001 {
+            background-position: -1875px -1275px;
+            width: 375px;
+            height: 425px;
+        }
+        
+        @media screen and (-webkit-min-device-pixel-ratio: 1.0), screen and (min--moz-device-pixel-ratio: 1.0), screen and (-o-min-device-pixel-ratio: 100/100), screen and (min-device-pixel-ratio: 1.0), screen and (min-resolution: 1.0dppx) {
+            .sprite-move-left009,
+    .sprite-move-left008,
+    .sprite-move-left007,
+    .sprite-move-left006,
+    .sprite-move-left005,
+    .sprite-move-left004,
+    .sprite-move-left003,
+    .sprite-move-left0024,
+    .sprite-move-left0023,
+    .sprite-move-left0022,
+    .sprite-move-left0021,
+    .sprite-move-left0020,
+    .sprite-move-left002,
+    .sprite-move-left0019,
+    .sprite-move-left0018,
+    .sprite-move-left0017,
+    .sprite-move-left0016,
+    .sprite-move-left0015,
+    .sprite-move-left0014,
+    .sprite-move-left0013,
+    .sprite-move-left0012,
+    .sprite-move-left0011,
+    .sprite-move-left0010,
+    .sprite-move-left001 {
+                background-image: url('../img/left1.png');
+                -webkit-background-size: 2250px 1700px;
+                -moz-background-size: 2250px 1700px;
+                background-size: 2250px 1700px;
+            }
+        }
+        .sprite-move-left0048,
+.sprite-move-left0047,
+.sprite-move-left0046,
+.sprite-move-left0045,
+.sprite-move-left0044,
+.sprite-move-left0043,
+.sprite-move-left0042,
+.sprite-move-left0041,
+.sprite-move-left0040,
+.sprite-move-left0039,
+.sprite-move-left0038,
+.sprite-move-left0037,
+.sprite-move-left0036,
+.sprite-move-left0035,
+.sprite-move-left0034,
+.sprite-move-left0033,
+.sprite-move-left0032,
+.sprite-move-left0031,
+.sprite-move-left0030,
+.sprite-move-left0029,
+.sprite-move-left0028,
+.sprite-move-left0027,
+.sprite-move-left0026,
+.sprite-move-left0025 {
+            background-image: url('../img/left2.png');
+            background-repeat: no-repeat;
+        }
+        
+        .sprite-move-left0048 {
+            background-position: 0 0;
+            width: 375px;
+            height: 425px;
+        }
+        
+        .sprite-move-left0047 {
+            background-position: -375px 0;
+            width: 375px;
+            height: 425px;
+        }
+        
+        .sprite-move-left0046 {
+            background-position: -750px 0;
+            width: 375px;
+            height: 425px;
+        }
+        
+        .sprite-move-left0045 {
+            background-position: 0 -425px;
+            width: 375px;
+            height: 425px;
+        }
+        
+        .sprite-move-left0044 {
+            background-position: -375px -425px;
+            width: 375px;
+            height: 425px;
+        }
+        
+        .sprite-move-left0043 {
+            background-position: -750px -425px;
+            width: 375px;
+            height: 425px;
+        }
+        
+        .sprite-move-left0042 {
+            background-position: -1125px 0;
+            width: 375px;
+            height: 425px;
+        }
+        
+        .sprite-move-left0041 {
+            background-position: -1125px -425px;
+            width: 375px;
+            height: 425px;
+        }
+        
+        .sprite-move-left0040 {
+            background-position: 0 -850px;
+            width: 375px;
+            height: 425px;
+        }
+        
+        .sprite-move-left0039 {
+            background-position: -375px -850px;
+            width: 375px;
+            height: 425px;
+        }
+        
+        .sprite-move-left0038 {
+            background-position: -750px -850px;
+            width: 375px;
+            height: 425px;
+        }
+        
+        .sprite-move-left0037 {
+            background-position: -1125px -850px;
+            width: 375px;
+            height: 425px;
+        }
+        
+        .sprite-move-left0036 {
+            background-position: -1500px 0;
+            width: 375px;
+            height: 425px;
+        }
+        
+        .sprite-move-left0035 {
+            background-position: -1500px -425px;
+            width: 375px;
+            height: 425px;
+        }
+        
+        .sprite-move-left0034 {
+            background-position: -1500px -850px;
+            width: 375px;
+            height: 425px;
+        }
+        
+        .sprite-move-left0033 {
+            background-position: 0 -1275px;
+            width: 375px;
+            height: 425px;
+        }
+        
+        .sprite-move-left0032 {
+            background-position: -375px -1275px;
+            width: 375px;
+            height: 425px;
+        }
+        
+        .sprite-move-left0031 {
+            background-position: -750px -1275px;
+            width: 375px;
+            height: 425px;
+        }
+        
+        .sprite-move-left0030 {
+            background-position: -1125px -1275px;
+            width: 375px;
+            height: 425px;
+        }
+        
+        .sprite-move-left0029 {
+            background-position: -1500px -1275px;
+            width: 375px;
+            height: 425px;
+        }
+        
+        .sprite-move-left0028 {
+            background-position: -1875px 0;
+            width: 375px;
+            height: 425px;
+        }
+        
+        .sprite-move-left0027 {
+            background-position: -1875px -425px;
+            width: 375px;
+            height: 425px;
+        }
+        
+        .sprite-move-left0026 {
+            background-position: -1875px -850px;
+            width: 375px;
+            height: 425px;
+        }
+        
+        .sprite-move-left0025 {
+            background-position: -1875px -1275px;
+            width: 375px;
+            height: 425px;
+        }
+        
+        @media screen and (-webkit-min-device-pixel-ratio: 1.0), screen and (min--moz-device-pixel-ratio: 1.0), screen and (-o-min-device-pixel-ratio: 100/100), screen and (min-device-pixel-ratio: 1.0), screen and (min-resolution: 1.0dppx) {
+            .sprite-move-left0048,
+    .sprite-move-left0047,
+    .sprite-move-left0046,
+    .sprite-move-left0045,
+    .sprite-move-left0044,
+    .sprite-move-left0043,
+    .sprite-move-left0042,
+    .sprite-move-left0041,
+    .sprite-move-left0040,
+    .sprite-move-left0039,
+    .sprite-move-left0038,
+    .sprite-move-left0037,
+    .sprite-move-left0036,
+    .sprite-move-left0035,
+    .sprite-move-left0034,
+    .sprite-move-left0033,
+    .sprite-move-left0032,
+    .sprite-move-left0031,
+    .sprite-move-left0030,
+    .sprite-move-left0029,
+    .sprite-move-left0028,
+    .sprite-move-left0027,
+    .sprite-move-left0026,
+    .sprite-move-left0025 {
+                background-image: url('../img/left2.png');
+                -webkit-background-size: 2250px 1700px;
+                -moz-background-size: 2250px 1700px;
+                background-size: 2250px 1700px;
+            }
+        }
+        .sprite-move-left0066,
+.sprite-move-left0065,
+.sprite-move-left0064,
+.sprite-move-left0063,
+.sprite-move-left0062,
+.sprite-move-left0061,
+.sprite-move-left0060,
+.sprite-move-left0059,
+.sprite-move-left0058,
+.sprite-move-left0057,
+.sprite-move-left0056,
+.sprite-move-left0055,
+.sprite-move-left0054,
+.sprite-move-left0053,
+.sprite-move-left0052,
+.sprite-move-left0051,
+.sprite-move-left0050,
+.sprite-move-left0049 {
+            background-image: url('../img/left3.png');
+            background-repeat: no-repeat;
+        }
+        
+        .sprite-move-left0066 {
+            background-position: 0 0;
+            width: 375px;
+            height: 425px;
+        }
+        
+        .sprite-move-left0065 {
+            background-position: -375px 0;
+            width: 375px;
+            height: 425px;
+        }
+        
+        .sprite-move-left0064 {
+            background-position: -750px 0;
+            width: 375px;
+            height: 425px;
+        }
+        
+        .sprite-move-left0063 {
+            background-position: 0 -425px;
+            width: 375px;
+            height: 425px;
+        }
+        
+        .sprite-move-left0062 {
+            background-position: -375px -425px;
+            width: 375px;
+            height: 425px;
+        }
+        
+        .sprite-move-left0061 {
+            background-position: -750px -425px;
+            width: 375px;
+            height: 425px;
+        }
+        
+        .sprite-move-left0060 {
+            background-position: -1125px 0;
+            width: 375px;
+            height: 425px;
+        }
+        
+        .sprite-move-left0059 {
+            background-position: -1125px -425px;
+            width: 375px;
+            height: 425px;
+        }
+        
+        .sprite-move-left0058 {
+            background-position: 0 -850px;
+            width: 375px;
+            height: 425px;
+        }
+        
+        .sprite-move-left0057 {
+            background-position: -375px -850px;
+            width: 375px;
+            height: 425px;
+        }
+        
+        .sprite-move-left0056 {
+            background-position: -750px -850px;
+            width: 375px;
+            height: 425px;
+        }
+        
+        .sprite-move-left0055 {
+            background-position: -1125px -850px;
+            width: 375px;
+            height: 425px;
+        }
+        
+        .sprite-move-left0054 {
+            background-position: -1500px 0;
+            width: 375px;
+            height: 425px;
+        }
+        
+        .sprite-move-left0053 {
+            background-position: -1500px -425px;
+            width: 375px;
+            height: 425px;
+        }
+        
+        .sprite-move-left0052 {
+            background-position: -1500px -850px;
+            width: 375px;
+            height: 425px;
+        }
+        
+        .sprite-move-left0051 {
+            background-position: 0 -1275px;
+            width: 375px;
+            height: 425px;
+        }
+        
+        .sprite-move-left0050 {
+            background-position: -375px -1275px;
+            width: 375px;
+            height: 425px;
+        }
+        
+        .sprite-move-left0049 {
+            background-position: -750px -1275px;
+            width: 375px;
+            height: 425px;
+        }
+        
+        @media screen and (-webkit-min-device-pixel-ratio: 1.0), screen and (min--moz-device-pixel-ratio: 1.0), screen and (-o-min-device-pixel-ratio: 100/100), screen and (min-device-pixel-ratio: 1.0), screen and (min-resolution: 1.0dppx) {
+            .sprite-move-left0066,
+    .sprite-move-left0065,
+    .sprite-move-left0064,
+    .sprite-move-left0063,
+    .sprite-move-left0062,
+    .sprite-move-left0061,
+    .sprite-move-left0060,
+    .sprite-move-left0059,
+    .sprite-move-left0058,
+    .sprite-move-left0057,
+    .sprite-move-left0056,
+    .sprite-move-left0055,
+    .sprite-move-left0054,
+    .sprite-move-left0053,
+    .sprite-move-left0052,
+    .sprite-move-left0051,
+    .sprite-move-left0050,
+    .sprite-move-left0049 {
+                background-image: url('../img/left3.png');
+                -webkit-background-size: 1875px 1700px;
+                -moz-background-size: 1875px 1700px;
+                background-size: 1875px 1700px;
+            }
+        }
+        
